@@ -8,12 +8,15 @@ Plugins for exteraGram/Ayugram telegram cliets.
 
 Как поставить плагины из репозитория:
 1. Скачайте exteraGram/AyuGram:
-   https://t.me/exterareleases
-   https://t.me/ayugramreleases  
-2. Включите систему плагинов.
-3. Загрузите плагин файлом в ваш клиент.
-4. Нажмите по загруженному файлу.
-5. Нажмите "Установить" и "Включить после установки"
+
+https://t.me/exterareleases
+
+https://t.me/ayugramreleases
+
+3. Включите систему плагинов.
+4. Загрузите плагин файлом в ваш клиент.
+5. Нажмите по загруженному файлу.
+6. Нажмите "Установить" и "Включить после установки"
 
 Telegram-канал artem plugins: https://t.me/ArtemPlugins
 
